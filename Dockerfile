@@ -1,4 +1,4 @@
-FROM artifactory.iventuregroup.com:5000/hyperion/elasticsearch:6.1.2-sgm.1
+FROM artifactory.iventuregroup.com:5000/hyperion/elasticsearch:6.1.3-sgm.1
 
 MAINTAINER pjpires@gmail.com
 
